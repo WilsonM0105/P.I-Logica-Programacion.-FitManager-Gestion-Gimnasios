@@ -1,0 +1,2 @@
+# No se requieren librerías externas.
+# El sistema usa librerías estándar de Python: json, os y datetime.
